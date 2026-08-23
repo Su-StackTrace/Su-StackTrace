@@ -15,7 +15,7 @@
 
 只是个热爱折腾的 Minecraft 服务器管理员，会点 Python 和 Java，平时喜欢：
 
-- 🤓 翻翻服务器日志，排查服务器崩溃和掉线原因
+- 🤓 翻翻服务器日志，检查服务器状
 - 🤗 在 GitHub 上淘宝，给别人的项目点 star
 - 😄 写一些没什么用但是很好玩的小工具
 
@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" />
-</p>
 
 ---
 
