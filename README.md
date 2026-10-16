@@ -43,13 +43,5 @@
 
 ### 😜 所在组织
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=BC-809" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/github-BC--809-blue?logo=github&style=for-the-badge" alt="Organization Badge" />
-</p>
-
 > **组织简介**  
 > *Sucodesu*: 自建组织，本人大多数仓库都在这里，欢迎来参观和交流。
