@@ -13,7 +13,7 @@
 
 ### 🥱 关于我
 
-只是个热爱折腾的 Minecraft 服务器管理员，会点 Python 和 Java，平时喜欢：
+只是个爱折腾的 Minecraft 服务器管理员，会点 Java，平时喜欢：
 
 - 🤓 翻翻服务器日志，检查服务器状态
 - 🤗 在 GitHub 上淘宝，给别人的项目点 star
@@ -28,7 +28,6 @@
 <p align="center">
   <strong>😚 开发语言</strong><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
