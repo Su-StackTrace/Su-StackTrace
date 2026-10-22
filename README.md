@@ -40,8 +40,8 @@
 ---
 
 ### 😜 所在组织
-<p align="enter">
-  <strong>Sucodesu
+<p align="center">
+  <strong>Sucodesu</strong><br/>
 </p>
 
 > **组织简介**  
